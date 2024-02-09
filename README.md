@@ -15,6 +15,7 @@ USAGE:
 - The mod will not trigger if the player is in a mission or riding a vehicle.
 
 REQUIREMENTS:
-- Script Hook V
-- Script Hook V Dot Net
+- [Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
+- [Script Hook V Dot Net](https://github.com/crosire/scripthookvdotnet/releases)
+
 ![MeanwhileInLosSantos](screenshots/meanwhileInLosSantos1.png)
